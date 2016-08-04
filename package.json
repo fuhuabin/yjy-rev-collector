@@ -1,0 +1,16 @@
+{
+  "name": "yjy-rev-collector",
+  "version": "1.0.0",
+  "description": "for yjy rev collector,private only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+    "through2": ">=0.5.1",
+    "underscore": "^1.6.0"
+  }
+}
